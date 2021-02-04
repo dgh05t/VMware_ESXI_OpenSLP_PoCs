@@ -1,0 +1,2 @@
+# VMware_ESXI_OpenSLP_PoCs
+CVE-2020-3992 &amp; CVE-2019-5544
